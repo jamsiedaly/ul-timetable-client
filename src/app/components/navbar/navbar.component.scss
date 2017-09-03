@@ -26,3 +26,18 @@
   margin: 0 7px 2px 0;
   vertical-align: middle;
 }
+
+.legend-item {
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+}
+
+.legend-inner-container {
+   display: inline-block;
+}
+
+.legend-outer-container {
+  width: 100%;
+  text-align: center;
+}
